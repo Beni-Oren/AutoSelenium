@@ -1,0 +1,1 @@
+{"uuid":"7c987a7f-3253-4590-9e99-6d3f195baa74","name":"AutoSelenium","children":["1969888a-89ce-41df-b819-780bdaae86ca"],"befores":[{"name":"CheckboxesTestCases","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668474442322,"stop":1668474442740}],"afters":[],"links":[],"start":1668474442249,"stop":1668474443215}
